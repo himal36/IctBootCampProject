@@ -1,0 +1,37 @@
+Flex-Box
+Fkex Container
+flex parameter-no wrap by default,wrap, wrap reverse
+flex direction
+    /*flex-direction: row; */
+           /* flex-wrap: wrap-reverse;*/
+           flex-flow: row wrap;
+           /*it directs the both flex direction and flex wrap*/
+
+control+forward/ garesi comment hunxa afai,reverse
+
+space manage garna sikeu
+justify-center
+space-around evenly space between tyext garauxa
+space-between  between ma matra space aauxa
+
+
+order using inline function in div order...
+space-evenly equal space in all side
+height control gareu
+flex-end ma tala,flex-center ma bich ma
+
+
+align-item ma flex-start, flex-end, center,stretch,baselilne,normal hunxa
+ align-items: stretch;
+        <div style="order: 3">1</div>
+        <div style="order: 5">2</div>
+        <div style="order: 1;">3</div>
+        <div style="order: 2">4</div>
+        <div style="order: 4">5</div>
+      item size strentch 
+
+flex grow <div style="order: 3: flex-grow: 1;">1</div>
+flex shrink
+align-items
+
+

@@ -1,0 +1,111 @@
+Function:
+It reduce the length of code.
+It avoids repetation of codes.
+Function_keywords
+
+syntax;
+function function_name (para1,para2,para3...)
+               statements/code;
+}                         
+        
+                             
+  Parameter pas   $(a+b)      
+ <script>
+    function addNumbers(){
+        let a = 5;
+        let b = 10;
+        alert('The sum is ${a+b}');
+    }
+    </script>                                              
+                                                                          
+                                                         
+                                                          
+
+
+
+Object:
+syntax:
+const object name = {                
+                           property1: value1,
+                           property2: value2,   
+                            .                                              
+                            .                            
+                            .                                            
+                                                         
+     For car:
+const car={
+                Brand: 'ford'
+               model:'...'
+               color:'...'
+               milage:'....'
+               price:'...'                                                                    } 
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                                                          
+                                                         
+                                    

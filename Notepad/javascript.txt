@@ -1,0 +1,62 @@
+Javascript:
+
+Syntax: structure,grammer
+Semantic: logic for eg2-2 - is semantic logic
+ run inside console
+
+DataType:
+1)Number and math
+
+() bracket
+*,/ same priority
++,-same priority
+product(left to right)
+
+integer,decimal:float
+Math.random() numbers generates random number between zero and one.
+
+2)string
+collection of characters, including numberts symbols char,digits..
+string: 
+' ' 1 single quotation,  
+ " "2 double quotation,
+  \ \ 3 back tick
+
+'front'+'end';  i.e concatentaion
+'Hello'+13; hello-string, 12-number,string,automatic type conversion
+
+3)Variables:
+can't use special word, 
+x=2;
+2
+y=4;
+4
+x+y;
+6       x=2:Assignment operator
+can't use special character
+can't use number at starting of variable name
+camelcase; profit=sellingPrice-costPrice, eg  starting lowercase and in middle upper
+
+i)Airthmetic operator;
+Boolean operator true,false,tt,ff
+ii)Comparision operator; <,>,=,===,<=,>=,!==,
+iii)Logical Operator  && =>And  ,|| =>Or, !=> Not 
+
+
+
+Conditional Statement:-
+if(condition){
+statement;
+}else{
+statement;
+}
+
+
+for checking three conditions
+if(condition)1{
+statement1;
+}else if(condition2){
+statement2;
+}else if(condition3){
+statement3;
+}

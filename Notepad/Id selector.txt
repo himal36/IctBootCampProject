@@ -1,0 +1,42 @@
+h1,h4{
+    text-align: center
+}
+
+#para1 {
+    color:green
+}
+#para2 {
+    color: rebeccapurple
+}
+#para3 {
+    color:blue
+}
+body{
+    background-color: beige
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+      
+<head>
+    <link rel="stylesheet" href="idstyle.css"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>ICT</title>
+</head>
+<body>
+   <h1>Myagdi Multiple Campus</h1>
+    <h4>Beni,Myagdi</h4>
+    
+    <p id="para1">Myagdi Multiple Campus (MMC) is a community based institution established and operated by the local civil society to open the gateway of higher education for filling the gap of human resources to fulfill the need of educated manpower herein and outside. Before 2048 BS (1992 AD), there was not any institution of higher education in Myagdi District. </p>
+
+    <p id="para2">The absence of educational opportunities after SLC created an urgent social demand for establishment of a campus in the district.</p>
+
+    <p id="para3"> Prior to the establishment of Myagdi Multiple Campus (MMC), most of the students of this region had to go to Kathmandu, 
+        Pokhara or outside Beni for further studies after passing the SLC.</p>
+</body>
+</html>

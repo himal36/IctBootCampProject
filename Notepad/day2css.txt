@@ -1,0 +1,2 @@
+css:inline,internal, external
+css selsector: fonying color change, txt alifnment,borders,margin...box modes

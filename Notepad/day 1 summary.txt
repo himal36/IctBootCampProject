@@ -1,0 +1,32 @@
+Day 1 Summary – ICT Bootcamp. 
+On the first day of the ICT Bootcamp held in MMC, we learned about the HTML. 
+
+Here are the main points:
+ 1. HTML Basic Structure
+ We learned how an HTML document is structured using tags like <html>, <head>, <title>, and <body>.
+
+ 2. Headings
+ We used heading tags from <h1> to <h6>, and also learned how to change their color and align them (e.g., center). 
+
+3. Paragraphs and Text Formatting
+ We used the <p> tag for writing paragraphs and learned about formatting text using: <b> for bold text <i> for italic text <mark> to highlight text. 
+
+4. Links
+ We learned how to create links using the <a> tag with the href attribute to: Open website link in same page , Link open to another page or section . 
+
+5. Submit Button
+ We learned how to create a submit button using the <button> or <input type="submit">. 
+
+6. Aligning Text
+ We practiced aligning text to the center using styles like text-align: center;. 
+
+7. Images
+ We learned how to insert images into a webpage using the <img> tag in VSCODE. 
+
+8. Lists
+ We created: Unordered lists using the <ul> tag , Ordered lists using the <ol> tag . 
+
+9. Tables
+We learned to make tables using: <table> for the table <tr> for table rows <td> for table data (cells) <th> for table headers . 
+
+Hence, this are the main topics that we've learned in Day-1 ICT BOOTCAMP held in yesterday class.
