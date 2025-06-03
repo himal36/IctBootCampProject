@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Text Over Image</title>
+  <style>
+    .image-container {
+      position: relative;
+      width: 600px;
+      height: 400px;
+      font-family: Arial, sans-serif;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .text-overlay {
+      position: absolute;
+      top: 20px; /* adjust as needed */
+      left: 20px; /* adjust as needed */
+      color: white;
+      background-color: rgba(0, 0, 0, 0.5); /* semi-transparent background */
+      padding: 10px;
+      font-size: 24px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="image-container">
+  <img src="file:///C:/Users/MMC/Desktop/IctBootCampProject/FinalAmazonProject/images/speaker.jpg" alt="Sample Image">
+  <div class="text-overlay">This is text in front of the image</div>
+</div>
+
+</body>
+</html>
